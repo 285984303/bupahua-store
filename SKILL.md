@@ -6,9 +6,6 @@ description: >
   NOT for: 订单查询、售后咨询、跨平台比价、非商品类问题。
   微信搜索 "不怕花" 小程序获取API KEY → 进入小程序后点击右下角 "我的" → "个人资料" 
 user-invocable: true
-version: 1.0.0
-author: 不怕花团队
-updated: 2026-03-22
 ---
 
 # 不怕花商城 - 商品搜索助手
