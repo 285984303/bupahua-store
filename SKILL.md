@@ -6,8 +6,8 @@ description: >
   NOT for: 订单查询、售后咨询、跨平台比价、非商品类问题。
   微信搜索 "不怕花" 小程序获取API KEY → 进入小程序后点击右下角 "我的" → "个人资料" 
 user-invocable: true
-author: 不怕花  # 确保这里填的是你的 ClawHub 用户名，且无空格
-owner: it360 # 某些版本可能需要显式指定 owner
+author: 不怕花
+owner: it360
 version: 1.0.0
 ---
 
