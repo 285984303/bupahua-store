@@ -8,14 +8,14 @@ description: >
 user-invocable: true
 author: 不怕花
 owner: it360
-version: 1.0.0
+version: 1.0.1
 ---
 
 # 不怕花商城 - 商品搜索助手
 
 ## 版本信息
-- **当前版本**: 1.0.0
-- **更新日期**: 2026-03-22
+- **当前版本**: 1.0.1
+- **更新日期**: 2026-04-04
 - **兼容性**: OpenClaw 2026.3.0+
 - **仓库地址**: https://github.com/285984303/bupahua-store
 
